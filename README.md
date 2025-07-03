@@ -1,4 +1,4 @@
-# 21IT036_SummerInternship-2024
+# Diamond part Recognition Model
 
 # Week-1 	  
 
